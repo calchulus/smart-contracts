@@ -1,4 +1,4 @@
-# Hero Protocol Smart Contracts
+# Ethnamed Smart Contracts
 
 You can see 
 
